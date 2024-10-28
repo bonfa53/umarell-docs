@@ -1,2 +1,2 @@
-# umarell-issues
-Issue tracker for Umarell project
+# umarell-docs
+Docs and issue tracker for Umarell project
